@@ -1,1 +1,3 @@
-# csrf
+# CSRF
+
+Simple csrf token library
